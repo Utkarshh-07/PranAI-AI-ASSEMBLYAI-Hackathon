@@ -1,4 +1,4 @@
-# 🌊 PranAI — AI Mental Wellness for Indian Students
+# 🌊 PranAI — AI Mental Wellness for Students
 
 **PranAI** is Sanskrit, roughly: "intelligence that nurtures your life energy."
 
@@ -46,7 +46,7 @@ One thing that is **not** simplified: voice input runs on AssemblyAI's actual re
 
 ## 🎯 The Problem
 
-87% of Indian students report exam-related anxiety. 1 in 4 teenagers feel persistently sad or hopeless. 70% never seek help, mostly out of stigma or fear — and when they do look for it, therapy runs ₹1,500–3,000 a session, which most families can't treat as routine.
+87% of students report exam-related anxiety. 1 in 4 teenagers feel persistently sad or hopeless. 70% never seek help, mostly out of stigma or fear — and when they do look for it, therapy runs ₹1,500–3,000 a session, which most families can't treat as routine.
 
 **The gap:** it isn't that parents don't care. It's that parents are left in the dark, and students are scared to be the one who breaks the silence first.
 
