@@ -4,6 +4,7 @@
 
 ## 📌 A Note for Judges, Upfront
 
+**TOO ACCESS CODE PLS VISIT PRANA FOLDER**
 Everything marked "✅ Demo Ready" below is genuinely built and working — the UI, the navigation flows, the gamification system, the parent dashboard, the safety-alert logic, and the voice input, all of it runs live in this build.
 
 Two things are intentionally simplified for this submission, and I'd rather tell you exactly what and why than have you guess:
